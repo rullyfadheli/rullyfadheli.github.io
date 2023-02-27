@@ -1,0 +1,66 @@
+/* title */
+
+.head {
+    background-color: #9CC3D5FF;
+}
+
+.title {
+    color: #0063B2FF;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.name {
+    font-family: 'Sacramento';
+    font-size: 7rem;
+    font-weight: 900;
+}
+
+.plane {
+    width: 40%;
+    transform: rotate(10deg);
+}
+
+.cloud-1 {
+    position: relative;
+    top: 50%;
+    left: -10%;
+}
+
+.cloud-2 {
+    position: relative;
+    top: -200px;
+    left: 10%;
+}
+
+.cloud-3 {
+    position: relative;
+    top: 100%;
+    left: 10%;
+}
+
+/* body */
+
+.body, .greetings {
+    text-align: center;
+    font-family: 'Tilt Neon', 'cursive';
+    font-size: 3rem;
+}
+
+/* carousel */
+
+.carousel-main {
+    padding: 20% 15%;
+}
+
+.carousel {
+    margin: 80px auto 80px;
+}
+
+.img {
+    width: 60%;
+    height: 60%;
+    margin: auto;
+}
+
+/* footer */
